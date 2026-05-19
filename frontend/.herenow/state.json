@@ -1,0 +1,10 @@
+{
+  "publishes": {
+    "happy-iris-ster": {
+      "siteUrl": "https://happy-iris-ster.here.now/",
+      "claimToken": "40abce036f1730a332a585e34c455f5fff0e616c0577cc821530cee7d09d69e7",
+      "claimUrl": "https://here.now/claim?slug=happy-iris-ster&token=40abce036f1730a332a585e34c455f5fff0e616c0577cc821530cee7d09d69e7",
+      "expiresAt": "2026-05-19T09:20:55.943Z"
+    }
+  }
+}
