@@ -13,7 +13,11 @@ AI + IoT powered agriculture analytics and marketplace MVP for Sri Lankan farmer
   - we rent vehicles/farming instruments
   - we give a garauntee for buyers and sellers. to protect both we use ranting system with a past crop growth history.
   - give latest updates about plant diseases
-  - And more ... 
+
+## Next fetures 
+  - We target small farmers to sell directly to the customers without thirdparty.
+  - Our own marketplace
+  - And more...
 
 ### This is the plantform you are looking for the managment, the guarantee , High progfit, All in one platform 
 
