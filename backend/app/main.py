@@ -9,6 +9,7 @@ from app.core.database import Base, engine
 from app.models import entities  # noqa: F401
 from app.services.mock_data import sensor_packet
 
+# Initialize the app
 app = FastAPI(title=settings.app_name, version="0.1.0")
 
 app.add_middleware(
@@ -44,3 +45,6 @@ async def iot_stream(websocket: WebSocket):
             await asyncio.sleep(2)
     except WebSocketDisconnect:
         return
+
+
+# Help me to improve the code and escape from matrix :(
