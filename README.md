@@ -25,6 +25,6 @@ AI + IoT powered agriculture analytics and marketplace MVP for Sri Lankan farmer
 
 - Frontend: React, Vite, TailwindCSS, Framer Motion, Recharts, Lucide React
 - Backend: FastAPI, SQLAlchemy, PostgreSQL-ready models, JWT auth, WebSockets
-- AI: OpenAI-ready service with graceful mock fallback , helpfilemi
+- AI: OpenAI-ready service with graceful mock fallback , 
 - Realtime: simulated IoT telemetry over WebSockets
 
